@@ -25,6 +25,7 @@ const availableCommands = [
   'open',
   'click',
   'clickAndWait',
+  'deleteAllVisibleCookies',
   'select',
   'selectAndWait',
   'type',
