@@ -1,0 +1,8 @@
+How to build/run Chrome extension:
+	- https://developer.chrome.com/extensions/getstarted
+Install NodeJS:
+	- https://www.tutorialspoint.com/nodejs/nodejs_environment_setup.htm
+Install Babel, Webpack, etc
+	- https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
+Install Visual Studio Code IDE (GNU/Linux, Windows, MacOS)
+	- https://code.visualstudio.com/download
